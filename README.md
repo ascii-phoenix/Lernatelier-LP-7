@@ -1,12 +1,15 @@
 # Lernatelier-LP-7
 ## Grob-Planung
 
-5. Multiplikation Progrmieren
-6. Division Programieren
-7. sqrq adieren
-8. Wurtzel?
+1. Multiplikation Progrmieren
+2. Division Programieren
+3. sqrq adieren
+4. Wurtzel?
 
 ## 18.10.2024
+- [x] Eine Verbesserte annhäherung der erwarteten zahl (bugfixes)
+- [ ] Richtige anzahl nullen
+- [ ] division anfangen
 ## 25.10.2024
 ## 01.11.2024
 ## 08.11.2024
