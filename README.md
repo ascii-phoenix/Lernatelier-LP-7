@@ -8,7 +8,8 @@
 
 ## 18.10.2024
 - [x] Eine Verbesserte annhäherung der erwarteten zahl (bugfixes)
-- [ ] Richtige anzahl nullen
+- [x] Richtige anzahl nullen
+- [x] Multiplikation Fertig
 - [ ] division anfangen
 ## 25.10.2024
 ## 01.11.2024
