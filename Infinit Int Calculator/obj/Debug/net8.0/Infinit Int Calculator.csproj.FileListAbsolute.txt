@@ -1,0 +1,14 @@
+C:\Users\eloik\source\repos\Infinit Int Calculator\bin\Debug\net8.0\Infinit Int Calculator.exe
+C:\Users\eloik\source\repos\Infinit Int Calculator\bin\Debug\net8.0\Infinit Int Calculator.deps.json
+C:\Users\eloik\source\repos\Infinit Int Calculator\bin\Debug\net8.0\Infinit Int Calculator.runtimeconfig.json
+C:\Users\eloik\source\repos\Infinit Int Calculator\bin\Debug\net8.0\Infinit Int Calculator.dll
+C:\Users\eloik\source\repos\Infinit Int Calculator\bin\Debug\net8.0\Infinit Int Calculator.pdb
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\Infinit Int Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\Infinit Int Calculator.AssemblyInfoInputs.cache
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\Infinit Int Calculator.AssemblyInfo.cs
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\Infinit Int Calculator.csproj.CoreCompileInputs.cache
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\Infinit Int Calculator.dll
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\refint\Infinit Int Calculator.dll
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\Infinit Int Calculator.pdb
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\Infinit Int Calculator.genruntimeconfig.cache
+C:\Users\eloik\source\repos\Infinit Int Calculator\obj\Debug\net8.0\ref\Infinit Int Calculator.dll
