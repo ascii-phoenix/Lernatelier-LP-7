@@ -25,7 +25,13 @@ Heute habe ich dann mit der Implementierung der Division gestartet und konnte di
 - [ ] n root
 Heute konnte ich schließlich die Modulo-Operation abschließen und die Exponentenfunktion (^n) sowie die Quadratwurzel (sqrt) erfolgreich implementieren. Jetzt bleibt noch die Implementierung der n-ten Wurzel, an der ich als Nächstes arbeiten werde. Ich bin gespannt auf die nächsten Schritte und darauf, die Funktionalität von uExdInt weiter zu verbessern.
 ## 08.11.2024
+
 ## 15.11.2024
+Today, I followed a YouTube tutorial to program the classic Snake game. It was a perfect starting point since I’ve always wanted to create a game. During the process, I learned about Enums, linked lists, and 2D arrays for representing coordinates like [x, y]. I also explored async programming with tasks and discovered helpful shortcuts, such as Lambda expressions and using new() instead of explicitly declaring new object.
+- [x] Floge dem Tutorial
+- [x] Floge dem Tutorial
+- [x] Floge dem Tutorial
+- [x] Floge dem Tutorial
 ## 22.11.2024
 ## 29.11.2024
 ## 06.12.2024
